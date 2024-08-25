@@ -21,11 +21,12 @@ Welcome to visit my GitHub Profile!
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=KaiFengLikeWritingCode&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 
-<br/>
+
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiFengLikeWritingCode&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
-    <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=py,c,cpp,cs,java,html,css,js,ts,matlab,md,sqlite&theme=auto"/>
+<br/>
+<img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=py,c,cpp,cs,java,html,css,js,ts,matlab,md,sqlite&theme=auto"/>
 <br/>
 <!-- https://github.com/LelouchFR/skill-icons -->
 
