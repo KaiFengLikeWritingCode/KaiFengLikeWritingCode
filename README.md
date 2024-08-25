@@ -7,7 +7,9 @@ Welcome to visit my GitHub Profile!
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 
-
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+super+obsessed+with+programming!" />
+</p>
 
 <p align="center">
 <!-- https://github.com/anuraghazra/github-readme-stats -->
@@ -17,10 +19,7 @@ Welcome to visit my GitHub Profile!
 <br/>
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=KaiFengLikeWritingCode&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
-<br/>
-<!-- https://github.com/star-history/star-history -->
-<img src="https://api.star-history.com/svg?repos=kaizhi/tkintertools,KaiFengLikeWritingCode/Intelligent-Magic-Cube,KaiFengLikeWritingCode/Chess,kaizhi/kaizhi,KaiFengLikeWritingCode/tkintertools-demos,KaiFengLikeWritingCode/Fucking-Code&type=Date&theme=dark" />
-<br/>
+
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=KaiFengLikeWritingCode&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 <!-- https://github.com/anuraghazra/github-readme-stats -->
