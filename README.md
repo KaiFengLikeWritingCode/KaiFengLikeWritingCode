@@ -1,35 +1,6 @@
-<!--<div align="center">
-  <img width=50% height=50% src='https://wakatime.com/share/@cd8731d7-2366-4da2-8032-5bb5ad0d3122/50ed7d65-0330-42d0-9815-5f4ff032cc45.png'>
-</div>-->
-<!--<div align="center"> <img src="https://metrics.lecoq.io/KaiFengLikeWritingCode?template=classic&isocalendar=1&languages=1&lines=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&config.timezone=Asia%2FShanghai"> </div>-->
-<!--
-MIT License
-
-Copyright (c) 2024 Xiaokang2022
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
-ATTENTION:
-
-Source repository:https://gitee.com/KaiFeng10086/kaifeng10086
--->
-
+<h1>Hi there 👋 嘿，你好 👋</h1>
+Welcome to visit my GitHub Profile!
+欢迎访问我的 GitHub 个人资料！
 <!-- https://github.com/kyechan99/capsule-render -->
 
 <p align="center">
